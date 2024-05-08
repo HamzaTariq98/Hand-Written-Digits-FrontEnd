@@ -1,0 +1,18 @@
+div.container.leader.leader{
+    margin-bottom: 0px;
+    font-size: small;
+}
+
+div.container.leader.leader hr{
+    margin: 0px;
+}
+
+div.container.leader.headerleader{
+    margin-top: 5px;
+    font-size: medium;
+}
+
+div.row div.col-4{
+    /* height: 20px; */
+    overflow-x: hidden;
+}
