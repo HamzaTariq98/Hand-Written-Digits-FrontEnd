@@ -1,0 +1,5 @@
+div.container.leaderBoardList{
+    height: 300px;
+    border: 1px rgba(209, 207, 176, 0.288) solid;
+    overflow: auto;
+}

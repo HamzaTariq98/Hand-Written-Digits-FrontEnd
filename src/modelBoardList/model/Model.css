@@ -1,0 +1,18 @@
+div.container.model.model{
+    margin-bottom: 0px;
+    font-size: small;
+}
+
+div.container.model.model hr{
+    margin: 0px;
+}
+
+div.container.model.headermodel{
+    margin-top: 5px;
+    font-size: medium;
+}
+
+div.row div.col-4{
+    /* height: 20px; */
+    overflow-x: hidden;
+}

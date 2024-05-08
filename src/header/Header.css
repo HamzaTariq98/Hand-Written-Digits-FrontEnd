@@ -1,0 +1,12 @@
+div.container.header{
+    margin: 5px;
+    padding: 10px;
+    /* border: 1px rgba(209, 207, 176, 0.288) solid; */
+}
+
+  div.container.header div.row{
+    display: flex;
+    align-items: center;
+ }
+
+
